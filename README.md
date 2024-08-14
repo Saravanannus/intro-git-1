@@ -1,6 +1,4 @@
-# intro-git-1
-Intro-Git1-module -3
-1st test for pull
+# Intro-Git1-module -3
 # 1. Listing Branches
 git branch: Lists all the branches in the current repository. The current branch is highlighted with an asterisk (*).
 # 2. Creating a New Branch
